@@ -5,6 +5,7 @@ pct1.cpp - basic C++ programs
 etc..
 ### language used
 -C++
+-C
 ### author
 -komalkumari
 -diploma in computer emgineering
